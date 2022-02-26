@@ -1,0 +1,64 @@
+.body
+{
+  background-color:rgba(255, 115, 0, 0.534);
+}
+.container
+{
+  background-color:rgba(29, 27, 27, 0.637);
+  margin: 30px auto;
+  width:270px;
+  height:530px;
+  box-shadow: 12px 12px 12px 1px rgba(7, 7, 7, 0.418);
+  border-radius:20px;
+  padding-top:1px;
+}
+.uppercontainer
+{
+  background-color:white;
+  margin: 50px auto;
+  width:190px;
+  height:150px;
+  border-left: 5px solid rgb(211, 97, 97);
+  border-right: 5px solid rgba(78, 100, 226, 0.651);
+  border-bottom: 5px solid rgb(209, 81, 81);
+  border-top:5px solid rgba(92, 111, 218, 0.815) ;
+  border-width: 8px;
+  text-align:center;
+}
+.lowercontainer
+{
+  margin: 5px auto;
+  width:230px;
+  height:260px;
+}
+.head
+{
+  color: rgb(202, 202, 209);
+  margin: 5px auto;
+  width:180px;
+  height:60px;
+  text-align:center;
+  border-bottom: 2px dotted rgb(111, 111, 114);
+}
+.button {
+  background-color: #505553;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 1px 2px;
+  width: 25px;
+  height:20px;
+  border-radius:4px;
+}
+.head1 {height:120px;}
+.head2 {border-bottom: 0px}
+.head11 {border-bottom: 0px;text-align:center;height:100px;width:80px;float: left;margin: 5px auto;}
+.head12 {border-bottom: 0px;text-align:center;height:100px;width:80px;float: right;margin: 5px auto;}
+.inerhead{height: 3px;}
+.buttonhl{font-size: 10px;margin:5px 10px auto;width: 60px;height:40px;}
+.fontminL{color:rgb(182, 11, 11);}
+.fontminR{color:rgb(50, 123, 219);}
+.ma{margin-top:50px;color:rgba(0, 0, 255, 0.425);}
